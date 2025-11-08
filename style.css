@@ -1,0 +1,22 @@
+body {
+  background-color: #f2f5f7;
+}
+
+.container {
+  max-width: 600px;
+  background: #fff;
+  margin-top: 60px;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.eligible {
+  color: green;
+  font-weight: bold;
+}
+
+.not-eligible {
+  color: red;
+  font-weight: bold;
+}
